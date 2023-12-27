@@ -7,6 +7,10 @@ public class Employee {
          System.out.println("salom");
         System.out.println("salom");
         System.out.println("salom");
+        System.out.println("Hello");
+        System.out.println("Hello");
+        System.out.println("Hello");
+        System.out.println("Hello");
 
     }
 }
