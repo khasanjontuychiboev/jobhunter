@@ -1,2 +1,4 @@
-package org.xasan;public class FeatureB {
+package org.xasan;
+
+public class FeatureB {
 }
