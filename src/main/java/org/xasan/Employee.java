@@ -5,6 +5,7 @@ public class Employee {
          System.out.println("salom REBASE 2");
         System.out.println("feature-a commit 1");
         System.out.println("feature-a commit 2");
+        System.out.println("feature-a commit 3");
 
     }
 }
